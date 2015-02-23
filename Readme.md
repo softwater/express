@@ -43,6 +43,7 @@ $ npm install express
 ## Docs & Community
 
   * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/strongloop/expressjs.com)]
+        [[中文文档](http://expressjs.jser.us/)]
   * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
   * [Github Organization](https://github.com/expressjs) for Official Middleware & Modules
   * Visit the [Wiki](https://github.com/strongloop/express/wiki)
@@ -58,7 +59,7 @@ $ npm install express
 
   The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
 
-  最快的了解express的方法是使用可执行的[`express(1)`](https://github.com/expressjs/generator)生成一个应用程序，如下：
+  最快的启动express的方法是使用可执行的[`express(1)`](https://github.com/expressjs/generator)生成一个应用程序，如下：
 
   Install the executable. The executable's major version will match Express's:
 
@@ -91,6 +92,8 @@ $ npm install
 ```bash
 $ npm start
 ```
+
+  在浏览器中输入localhost:3000查看效果。
 
 ## Philosophy（宗旨，哲学理念）
 
