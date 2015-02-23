@@ -1,6 +1,12 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
+  该项目fork自：https://github.com/strongloop/express。
+
+  该项目用于学习之用，相对于原项目有修改。
+
   Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
+
+ ［node](http://nodejs.org)的快速，unopinionated，简约的web框架。
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
@@ -26,13 +32,13 @@ $ npm install express
 
 ## Features
 
-  * Robust routing
-  * Focus on high performance
-  * Super-high test coverage
-  * HTTP helpers (redirection, caching, etc)
-  * View system supporting 14+ template engines
-  * Content negotiation
-  * Executable for generating applications quickly
+  * Robust routing（强大的路由选择）
+  * Focus on high performance（专注于高性能）
+  * Super-high test coverage（超高水平的测试覆盖）
+  * HTTP helpers (redirection, caching, etc)（http工具，如重定向，缓存等）
+  * View system supporting 14+ template engines（支持14个以上的模版引擎）
+  * Content negotiation（上下文转让）
+  * Executable for generating applications quickly（快速生成应用程序可执行文件）
 
 ## Docs & Community
 
