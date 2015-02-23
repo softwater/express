@@ -47,6 +47,7 @@ $ npm install express
   * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
   * [Github Organization](https://github.com/expressjs) for Official Middleware & Modules
   * Visit the [Wiki](https://github.com/strongloop/express/wiki)
+        [[我的翻译]]
   * [Google Group](https://groups.google.com/group/express-js) for discussion
   * [Русскоязычная документация](http://jsman.ru/express/)
   * [한국어 문서](http://expressjs.kr) - [[website repo](https://github.com/Hanul/expressjs.kr)]
