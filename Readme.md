@@ -6,7 +6,7 @@
 
   Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
 
- ［node](http://nodejs.org)的快速，unopinionated，简约的web框架。
+ [node](http://nodejs.org)的快速，unopinionated，简约的web框架。
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
