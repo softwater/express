@@ -37,7 +37,7 @@ $ npm install express
   * Super-high test coverage（超高水平的测试覆盖）
   * HTTP helpers (redirection, caching, etc)（http工具，如重定向，缓存等）
   * View system supporting 14+ template engines（支持14个以上的模版引擎）
-  * Content negotiation（上下文转让）
+  * Content negotiation
   * Executable for generating applications quickly（快速生成应用程序可执行文件）
 
 ## Docs & Community
