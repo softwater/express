@@ -46,11 +46,11 @@ $ npm install express
         [[中文文档](http://expressjs.jser.us/)]
   * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
   * [Github Organization](https://github.com/expressjs) for Official Middleware & Modules
-  * Visit the [Wiki](https://github.com/strongloop/express/wiki)
-        [[我的翻译]]
+  * Visit the [Wiki](https://github.com/strongloop/express/wiki)[我的翻译](https://git.oschina.net/softwater/express/wikis/home)
   * [Google Group](https://groups.google.com/group/express-js) for discussion
   * [Русскоязычная документация](http://jsman.ru/express/)
   * [한국어 문서](http://expressjs.kr) - [[website repo](https://github.com/Hanul/expressjs.kr)]
+  * [Examples](https://git.oschina.net/softwater/express/wikis/examples)
 
 **PROTIP** Be sure to read [Migrating from 3.x to 4.x](https://github.com/strongloop/express/wiki/Migrating-from-3.x-to-4.x) as well as [New features in 4.x](https://github.com/strongloop/express/wiki/New-features-in-4.x).
 
